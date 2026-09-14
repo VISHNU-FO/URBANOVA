@@ -1,0 +1,3 @@
+prismtrace-sdk>=0.4.3
+google-adk>=2.9.0
+python-dotenv>=1.0.0
